@@ -1,0 +1,13 @@
+/home/nicholas/Desktop/LearnC#/adventure-game/bin/Debug/netcoreapp3.1/adventure-game
+/home/nicholas/Desktop/LearnC#/adventure-game/bin/Debug/netcoreapp3.1/adventure-game.deps.json
+/home/nicholas/Desktop/LearnC#/adventure-game/bin/Debug/netcoreapp3.1/adventure-game.runtimeconfig.json
+/home/nicholas/Desktop/LearnC#/adventure-game/bin/Debug/netcoreapp3.1/adventure-game.runtimeconfig.dev.json
+/home/nicholas/Desktop/LearnC#/adventure-game/bin/Debug/netcoreapp3.1/adventure-game.dll
+/home/nicholas/Desktop/LearnC#/adventure-game/bin/Debug/netcoreapp3.1/adventure-game.pdb
+/home/nicholas/Desktop/LearnC#/adventure-game/obj/Debug/netcoreapp3.1/adventure-game.csprojAssemblyReference.cache
+/home/nicholas/Desktop/LearnC#/adventure-game/obj/Debug/netcoreapp3.1/adventure-game.AssemblyInfoInputs.cache
+/home/nicholas/Desktop/LearnC#/adventure-game/obj/Debug/netcoreapp3.1/adventure-game.AssemblyInfo.cs
+/home/nicholas/Desktop/LearnC#/adventure-game/obj/Debug/netcoreapp3.1/adventure-game.csproj.CoreCompileInputs.cache
+/home/nicholas/Desktop/LearnC#/adventure-game/obj/Debug/netcoreapp3.1/adventure-game.dll
+/home/nicholas/Desktop/LearnC#/adventure-game/obj/Debug/netcoreapp3.1/adventure-game.pdb
+/home/nicholas/Desktop/LearnC#/adventure-game/obj/Debug/netcoreapp3.1/adventure-game.genruntimeconfig.cache
